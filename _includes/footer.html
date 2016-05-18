@@ -9,8 +9,8 @@
 
             <ul class="social-icons">
             {% if site.owner.twitter %}<li>
-                <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="Twitter" target="_blank">
-                    <i class="icon-twitter"></i>
+                <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="Twitter" target="_blank" class="shadow-top-down social-twitter">
+                    <i class="fa fa-twitter"></i>
                 </a>
             </li>{% endif %}
             {% if site.owner.facebook %}<li>
@@ -29,8 +29,8 @@
                 </a>
             </li>{% endif %}
             {% if site.owner.linkedin %}<li>
-                <a href="{{ site.owner.linkedin }}" data-toggle="tooltip" title="LinkedIn" target="_blank">
-                    <i class="icon-linkedin"></i>
+                <a href="{{ site.owner.linkedin }}" data-toggle="tooltip" title="LinkedIn" target="_blank" class="shadow-top-down social-linkedin">
+                    <i class="fa fa-linkedin-square"></i>
                 </a>
             </li>{% endif %}
             {% if site.owner.instagram %}<li>
@@ -44,18 +44,18 @@
                 </a>
             </li>{% endif %}
             {% if site.owner.github %}<li>
-                <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="Github" target="_blank">
-                    <i class="icon-github"></i>
+                <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="Github" target="_blank" class="shadow-top-down social-github">
+                    <i class="fa fa-github-square"></i>
                 </a>
             </li>{% endif %}
             {% if site.owner.youtube %}<li>
-                <a href="http://youtube.com/user/{{ site.owner.youtube }}" data-toggle="tooltip" title="YouTube" target="_blank">
-                    <i class="icon-youtube"></i>
+                <a href="http://youtube.com/user/{{ site.owner.youtube }}" data-toggle="tooltip" title="YouTube" target="_blank" class="shadow-top-down social-youtube">
+                    <i class="fa fa-youtube-play"></i>
                 </a>
             </li>{% endif %}
             {% if site.owner.email %}<li>
-                <a href="mailto:{{ site.owner.email }}" data-toggle="tooltip" title="Email" target="_blank">
-                    <i class="icon-mail-reply"></i>
+                <a href="mailto:{{ site.owner.email }}" data-toggle="tooltip" title="Email" target="_blank" class="shadow-top-down social-email">
+                    <i class="fa fa-envelope-o"></i>
                 </a>
             </li>{% endif %}
         </ul>

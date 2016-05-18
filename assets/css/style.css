@@ -409,7 +409,7 @@ blockquote:before {
   background-color: rgba(255, 255, 255, 0.35);
 }
 .social-icons a:hover {
-  background-color: rgba(255, 255, 255, 0.15);
+  /*background-color: rgba(255, 255, 255, 0.15);*/
 }
 .overlay:after {
   background-color: rgba(0, 0, 0, 0.65);
@@ -3866,7 +3866,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:url("/images/menu-icon.png");    
+    content:url("/images/menu-icon.png");
     }
 
 a#slide.slide:after{
@@ -4005,6 +4005,26 @@ body.slide{
     background:rgba(0,0,0,.2)
     }
 
+.social-icons .social-github:hover, .social-icons .social-twitter:hover {
+    background: #28a9e0 none repeat scroll 0 0;
+}
+
+.social-icons .social-youtube:hover {
+    background: red none repeat scroll 0 0;
+}
+
+.social-icons .social-email:hover {
+    background: #cab9a9 none repeat scroll 0 0;
+}
+
+.social-icons .social-linkedin:hover {
+    background: #89adff none repeat scroll 0 0;
+}
+
+.shadow-top-down {
+    box-shadow: 0 8px 8px -4px rgba(0, 0, 0, 0.75);
+    transition: all 0.5s ease 0s;
+}
 
 
 /*      End-Animation       */

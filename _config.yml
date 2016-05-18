@@ -31,11 +31,11 @@ owner:
   description:    Rafael Monteiro is a developer. His interests are everything related to IT and music.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        rfmsts
-  youtube:        rfmsts  
-# facebook:       rfmsts
+  youtube:        rfmsts
   github:         rafaelmonteiro
-#  stackexchange:
   linkedin:       http://linkedin.com/in/rafael-feitosa-monteiro-25649022
+  # facebook:       rfmsts
+  #  stackexchange:
 #  instagram:
 #  flickr:
 #  tumblr:
@@ -61,6 +61,8 @@ links:
     url: /recommended
   - title: Tags
     url: /tags
+  - title: Contact
+    url: /contact
   - title: About
     url: /about
 
