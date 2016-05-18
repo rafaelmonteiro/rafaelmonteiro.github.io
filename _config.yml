@@ -28,21 +28,22 @@ owner:
   avatar:         author.jpg
   email:          rfmsts@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Rafael Monteiro is a developer. His interests are anything related to IT and music.
+  description:    Rafael Monteiro is a developer. His interests are everything related to IT and music.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        rfmsts
+  youtube:        rfmsts  
 # facebook:       rfmsts
   github:         rafaelmonteiro
 #  stackexchange:
   linkedin:       http://linkedin.com/in/rafael-feitosa-monteiro-25649022
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
+#  instagram:
+#  flickr:
+#  tumblr:
+# For Google Authorship https://plus.google.com/authorship
 #  google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-77932638-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -56,6 +57,8 @@ links:
     icon: home
   - title: Categories
     url: /categories
+  - title: Recommended
+    url: /recommended
   - title: Tags
     url: /tags
   - title: About

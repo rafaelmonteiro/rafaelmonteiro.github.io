@@ -9,7 +9,7 @@
 
             <ul class="social-icons">
             {% if site.owner.twitter %}<li>
-                <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="{{ site.owner.name}} on Twitter" target="_blank">
+                <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="Twitter" target="_blank">
                     <i class="icon-twitter"></i>
                 </a>
             </li>{% endif %}
@@ -29,7 +29,7 @@
                 </a>
             </li>{% endif %}
             {% if site.owner.linkedin %}<li>
-                <a href="{{ site.owner.linkedin }}" data-toggle="tooltip" title="{{ site.owner.name}} on LinkedIn" target="_blank">
+                <a href="{{ site.owner.linkedin }}" data-toggle="tooltip" title="LinkedIn" target="_blank">
                     <i class="icon-linkedin"></i>
                 </a>
             </li>{% endif %}
@@ -44,8 +44,18 @@
                 </a>
             </li>{% endif %}
             {% if site.owner.github %}<li>
-                <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="{{ site.owner.name}} on Github" target="_blank">
+                <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="Github" target="_blank">
                     <i class="icon-github"></i>
+                </a>
+            </li>{% endif %}
+            {% if site.owner.youtube %}<li>
+                <a href="http://youtube.com/user/{{ site.owner.youtube }}" data-toggle="tooltip" title="YouTube" target="_blank">
+                    <i class="icon-youtube"></i>
+                </a>
+            </li>{% endif %}
+            {% if site.owner.email %}<li>
+                <a href="mailto:{{ site.owner.email }}" data-toggle="tooltip" title="Email" target="_blank">
+                    <i class="icon-mail-reply"></i>
                 </a>
             </li>{% endif %}
         </ul>
