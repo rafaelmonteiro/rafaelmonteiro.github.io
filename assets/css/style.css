@@ -3847,6 +3847,7 @@ body {
 /*      End-Setting     */
 
 a#slide{
+    cursor: pointer;
     position:fixed;
     display:block;
     width:40px;
