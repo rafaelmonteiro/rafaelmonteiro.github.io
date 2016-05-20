@@ -2,7 +2,7 @@
 layout: post
 title: "Websense's Threat Report 2015"
 description: A brief analysis of the Websense's Threat Report 2015
-headline: Cybercrime never been so easy
+headline: Cybercrime just got easier
 modified: 2016-05-19 13:50:00
 category: personal
 tags: [infosec, Maas, Cybercrime, cybersecurity, IoT]
@@ -17,15 +17,15 @@ mathjax:
 
 ## Introduction
 
-Will be presented the main points addressed in Threat Report by Websense Security Labs® in 2015. The original file can be found here.
+Will be presented the main points addressed in Threat Report by Websense Security Labs® in 2015. The original file can be found [here](https://www.websense.com/assets/reports/report-2015-threat-report-en.pdf "2015 Websense's Threat Report").
 
-## Cybercrime is easier
+## Cybercrime just got easier
 
 MaaS (Malware-as-a-Service) has established itself as a practice, since even those who do not have in-depth knowledge in the area can have access to technology and cutting-edge tools, including samples of malicious source code, attack service providers and exploit kits.
 
 Attacks exhibiting advanced behavior are becoming common, especially in the areas of evasion, to hide intent or identification.
 
-## Avoid the trap of assignment
+## Avoid the attribution trap
 
 The concern about the attribution of authorship of an attack should be left to the competent authorities, the company should focus on the improvement of its defenses and the incident management tasks such as repair information.
 
@@ -100,4 +100,4 @@ The most modern techniques of exploitation has demonstrated innovation in the av
 
 IoT adds a new myriad of devices and networks that are not necessarily prepared against this threat landscape.
 
-To sum up, we can conclude that in the current threat landscape organizations need to combine education and awareness of employees (associated with the qualification of IT security team) with advanced technology to mitigate the risks inherent to the operations.
+To sum up, we can conclude that in the current threat landscape, organizations need to combine education and awareness of employees (associated with the qualification of IT security team) with advanced technology to mitigate operations inherent risks.
