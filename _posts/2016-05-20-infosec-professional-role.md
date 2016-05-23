@@ -4,7 +4,7 @@ title: "Infosec professional role in combating fraud"
 description: It is increasing the need for these professionals
 headline: Protect your assets or perish
 modified: 2016-05-20
-category: personal
+category: Information Security
 tags: [Infosec, fraud, cybercrime, cybersecurity]
 image:
   feature:

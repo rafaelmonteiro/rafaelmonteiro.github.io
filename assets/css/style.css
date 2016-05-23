@@ -1324,6 +1324,7 @@ a .icon-flip-vertical:before {
 }
 .icon-home:before {
   content: "\f015";
+  font-size: 140%;
 }
 .icon-file-alt:before {
   content: "\f016";

@@ -8,11 +8,12 @@ image:
 ---
 <figure>
   <img src="{{ site.url }}/images/author.jpg" alt="Rafael Monteiro">
-  <figcaption>Rafael Monteiro</figcaption>
-</figure>
+</figure>  
 
-Developer
+Hey, I'm Rafael Monteiro    
+Developer, Information Security specialist and Drummer currently in Santos,
+Brazil.  
 
-Information Security specialist
+I use this space to share my thoughts and experiences.  
 
-Drummer
+You can also find me in the social networks listed below.
