@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Websense's Threat Report 2015"
-description: A brief analysis of the Websense's Threat Report 2015
+title: "2015 Websense's Threat Report"
+description: A brief analysis of the 2015 Websense's Threat Report
 headline: Cybercrime just got easier
 modified: 2016-05-19 13:50:00
 category: Information Security
@@ -17,7 +17,7 @@ mathjax:
 
 ## Introduction
 
-Will be presented the main points addressed in Threat Report by Websense Security Labs® in 2015. The original file can be found [here](https://www.websense.com/assets/reports/report-2015-threat-report-en.pdf "2015 Websense's Threat Report").
+Will be presented the main points addressed in Threat Report of Websense Security Labs® in 2015. The original file can be found [here](https://www.websense.com/assets/reports/report-2015-threat-report-en.pdf "2015 Websense's Threat Report").
 
 ## Cybercrime just got easier
 
