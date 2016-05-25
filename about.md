@@ -7,12 +7,12 @@ image:
   feature: author.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/author.jpg" alt="Rafael Monteiro">
+  <img src="{{ site.url }}/images/author.jpg" alt="Rafael Monteiro" width="20%">
 </figure>  
 
 Hey, I'm Rafael Monteiro    
-Developer, Information Security specialist and Drummer currently in Santos,
-Brazil.  
+A developer who always seek for accordance with development best practices and
+UX, Information Security specialist and Drummer currently in Santos, Brazil.  
 
 I use this space to share my thoughts and experiences.  
 
