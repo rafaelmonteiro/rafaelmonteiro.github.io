@@ -5,7 +5,7 @@ description: A brief analysis of the 2015 Websense's Threat Report
 headline: Cybercrime just got easier
 modified: 2016-05-19 13:50:00
 category: Information Security
-tags: [infosec, Maas, Cybercrime, cybersecurity, IoT]
+tags: [infosec, Maas, cybercrime, cybersecurity, IoT]
 comments: true
 mathjax:
 ---
