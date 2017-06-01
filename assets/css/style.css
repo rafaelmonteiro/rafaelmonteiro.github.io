@@ -4066,13 +4066,22 @@ body.slide{
     #permalink .permalink-box{
         width:90%
         }
+}
 
+#csm-seal {
+  position: absolute;
+  top: 6px;
+  left: 51px;
+  z-index: 10;
+  width: 50px;
+}
 
 @media screen and (max-width:500px){
 
     a#slide{
         position:absolute
-        }
-
+        }    
+}
 
 /*      End-Responsive      */
+
