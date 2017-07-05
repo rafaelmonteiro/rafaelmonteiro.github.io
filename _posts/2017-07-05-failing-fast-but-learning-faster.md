@@ -53,15 +53,14 @@ Ideally, teams will rotate their members after a specified period of time. We se
 
 As deviations we see those practices that are far from the ideal scenario, but we’ve adopted as a way of transition from the current mindset to the agile one.  
 
-We still have business analysts working together with product owner (the idea is that these business guys work as product owners in a future);  
-We are still not able to keep teams exclusively to projects, so at the end of each sprint, the product owner evaluates the demands and may redirect this team to another project.
+- We still have business analysts working together with product owner (the idea is that these business guys work as product owners in a future);  
+- We are still not able to keep teams exclusively to projects, so at the end of each sprint, the product owner evaluates the demands and may redirect this team to another project.
 
 ## Feedback
 In our first sprint review, our stakeholders were able to see the first release of the software and they did appreciate that, not only the software per se, but mainly the idea of having after two weeks (sprint adopted period) a new version of the system. Our clients, up to that moment, were used to deadlines measured in months.  
 
 ## Fallback
-As a <a href="https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)" target="_blank">definition of done</a> to the first sprint we considered every task posted on the development and testing environment and with 
-to the first sprint we considered every task posted on the development and testing environment and with TDD or BDD implemented, however we only developed tests for critical operations. Therefore, as a technical debt we need to improve our code coverage in the future.  
+As a <a href="https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)" target="_blank">definition of done</a> to the first sprint we considered every task posted on the development and testing environment and with TDD or BDD implemented, however we only developed tests for critical operations. Therefore, as a technical debt we need to improve our code coverage in the future.  
 
 ## First results
 With the agile adoption, our team got more focused and deliverables more reliable. Stakeholders, product owner, and developers working together has created an unified vision of the product, which generated in everyone a clear vision of how great our efforts had been. Not mentioning the bureaucracy reduction made by decision decentralization.  
