@@ -18,13 +18,13 @@ Co-authored with: <a href="http://vanderleisilva.github.io" target="_blank">Vand
 
 If you have an empirical process (one that is complex and/or not very well understood) we need to be prepared to fail fast but learn even faster. And in a public sector, of course, it is not an exception. <a href="https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction#why-agile-is-better-for-services" target="_blank" >See</a> what UK government says about it.  
 
-People tends to see government as a deviation from the norm - in some cases it really is, but it is not a rule - and we believe that great part of the comprehension problems are related to that fact.  
+People tend to see government as a deviation from the norm - in some cases it really is, but it is not a rule - and we believe that great part of the comprehension problems are related to that fact.  
 
 Public sector needs to answer fast to changes - although this is not what we're used to - of laws, policies and external variables. They are constantly requiring efforts and decisions from the public managers. This happens more frequently in countries which are economically and politically unstable.  
 
 First, check over the agile principles. Having these aspects in mind, the great challenge of its implementation is the mindset change.  
 ## Paradigm shift
-The first obstacle is comprehend that IT processes - and here we are focusing in software development - works better (in most cases) using agile frameworks such as Scrum, instead of Waterfall models. This fact demands from managers a conceptual shift of the whole process.  
+The first obstacle is comprehend that IT processes - and here we are focusing in software development - work better (in most cases) using agile frameworks such as Scrum, instead of Waterfall models. This fact demands from managers a conceptual shift of the whole process.  
 
 There is no point in planning the entire project at the beginning, considering that changes may occur - and they certainly will - and you can’t foresee the future, it will only make you spend precious time. It is better to deliver small but functional increments of your product more frequently instead. By doing that, you can fix detours and comprehension mistakes before they get too expensive or difficult to modify.  
 
