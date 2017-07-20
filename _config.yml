@@ -33,9 +33,9 @@ owner:
   twitter:        rfmsts
   youtube:        rfmsts
   github:         rafaelmonteiro
-  linkedin:       http://linkedin.com/in/rafael-feitosa-monteiro-25649022
-  # facebook:       rfmsts
-  #  stackexchange:
+  linkedin:       http://linkedin.com/in/rafaelfmonteiro
+#  facebook:       
+#  stackexchange:
 #  instagram:
 #  flickr:
 #  tumblr:
@@ -84,12 +84,12 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers: false
 
 prose:
   rooturl: '_posts'
