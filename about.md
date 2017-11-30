@@ -13,7 +13,7 @@ image:
 Hey, I'm Rafael Monteiro.  
 A developer who always seek for compliance with development best practices and
 UX.  
-Information Security specialist and Certified ScrumMaster® (CSM) currently in Santos, Brazil.  
+Information Security specialist, Certified ScrumMaster (CSM) and AWS Certified Developer currently in Santos, Brazil.  
 
 Also, I like to play drums.
 
@@ -22,6 +22,11 @@ I use this space to share my thoughts and experiences.
 <figure>
 <a href="https://www.scrumalliance.org/community/profile/rmonteiro14" target="_blank">
   <img src="{{ site.url }}/images/csm-logo.png" title="Certified ScrumMaster®" alt="ScrumMaster Certification">
+</a>
+</figure>  
+<figure>
+<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-28&ci=AWS00358839" target="_blank">
+  <img width="100" src="{{ site.url }}/images/aws-developer.png" title="AWS Certified Developer - Associate" alt="AWS Certification">
 </a>
 </figure>  
 

@@ -4076,6 +4076,14 @@ body.slide{
   width: 50px;
 }
 
+#aws-badge {
+  position: absolute;
+  top: 6px;
+  left: 100px;
+  z-index: 10;
+  width: 50px;
+}
+
 @media screen and (max-width:500px){
 
     a#slide{
