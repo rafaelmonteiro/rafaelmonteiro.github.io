@@ -3830,7 +3830,6 @@ button.menu-button:hover {
 body{
     position:relative;
     overflow-x:hidden;
-    /*overflow-y:scroll;*/
     left:0;
     right:0;
     margin:auto;
@@ -4053,10 +4052,6 @@ body.slide{
         left:298px
         }
 
-    /*a#slide.slide{*/
-    /*    left:10px*/
-    /*    }*/
-
     #header,
     #posts-container,
     .entry .text,
@@ -4069,17 +4064,17 @@ body.slide{
 }
 
 #csm-seal {
-  position: absolute;
-  top: 6px;
-  left: 51px;
+  position: fixed;
+  bottom: -3px;
+  right: 2px;
   z-index: 10;
-  width: 50px;
+  width: 70px;
 }
 
 #aws-badge {
-  position: absolute;
-  top: 6px;
-  left: 100px;
+  position: fixed;
+  bottom: 6px;
+  right: 67px;
   z-index: 10;
   width: 50px;
 }
