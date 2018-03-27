@@ -56,7 +56,7 @@ rather than simply duplicating the entire application.
 There are several players in various areas, as one can see in the image below:
 
 <figure>
-	<a href="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAg6AAAAJDYxZmU0OTEyLWNmZWItNGVlNS1iYTRiLTRiNjExYjk4MGNiNA.jpg"><img src="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAg6AAAAJDYxZmU0OTEyLWNmZWItNGVlNS1iYTRiLTRiNjExYjk4MGNiNA.jpg"></a>
+	<a href="http://rafaelmonteiro.github.io/images/microservices_players.jpg"><img src="http://rafaelmonteiro.github.io/images/microservices_players.jpg"></a>
 	<figcaption><a href="http://rafaelmonteiro.github.io/" data-toggle="tooltip"
     title="Microservices players">Microservices players (image by Menlo Ventures)</a>.
     </figcaption>
