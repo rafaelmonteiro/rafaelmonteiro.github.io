@@ -11,9 +11,8 @@ image:
 </figure>  
 
 Hey, I'm Rafael Monteiro.  
-A developer who always seek for compliance with development best practices and
-UX.  
-Information Security specialist, Certified ScrumMaster (CSM) and AWS Certified Developer currently in Santos, Brazil.  
+A developer who always seek for compliance with development best practices and UX.  
+Information Security specialist, Certified ScrumMaster (CSM) and AWS Certified Developer currently in Sydney, Australia.  
 
 Also, I like to play drums.
 
@@ -26,7 +25,10 @@ I use this space to share my thoughts and experiences.
 </figure>  
 <figure>
 <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-28&ci=AWS00358839" target="_blank">
-  <img width="100" src="{{ site.url }}/images/aws-developer.png" title="AWS Certified Developer - Associate" alt="AWS Certification">
+  <img width="100" 
+    src="{{ site.url }}/images/aws-developer.png" 
+    title="AWS Certified Developer - Associate" 
+    alt="AWS Certification">
 </a>
 </figure>  
 
