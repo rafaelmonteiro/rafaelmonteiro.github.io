@@ -2,6 +2,8 @@
 layout: post
 title: "Pokémon Battle"
 date: 2017-10-20
+category: development
+comments: true
 description: "Learning about backend technologies in an API context and JS frontend with Pokémon"
 highlight: 1
 ---
