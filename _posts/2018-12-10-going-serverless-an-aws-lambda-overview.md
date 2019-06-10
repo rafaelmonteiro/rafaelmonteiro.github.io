@@ -10,8 +10,6 @@ comments: true
 tags: [AWS, Serverless, Lambda, Microservices, Coding]
 ---
 
-# Going Serverless — An AWS Lambda overview
-
 Recently my squad developed a microservice solution using an [AWS Lambda](https://aws.amazon.com/lambda) and [Node.js](https://nodejs.org) (Typescript) stack on top of [Serverless](https://serverless.com/), a framework which focuses on building and deploying serverless applications.
 
 In this article, I will share my experience and learnings during this period.

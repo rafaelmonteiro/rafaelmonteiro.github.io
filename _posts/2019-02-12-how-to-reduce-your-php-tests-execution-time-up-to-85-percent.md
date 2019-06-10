@@ -10,8 +10,6 @@ comments: true
 keywords: [Testing, PHP, Software Development, Software Engineering, Improvement]
 ---
 
-# How to reduce your PHP tests execution time up to 85%
-
 ![Speedometer image from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/65/Speedometer_%28kmh%29.JPG)](https://cdn-images-1.medium.com/max/1600/1*e94W7J-gYa9LywIJr0sOyQ.jpeg)
 
 Speedometer image from [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/65/Speedometer_%28kmh%29.JPG)

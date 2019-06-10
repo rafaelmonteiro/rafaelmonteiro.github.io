@@ -11,8 +11,6 @@ comments: true
 tags: [Startup, Pet Project, Work Culture, Ideas, Creativity]
 ---
 
-# How we exercise creativity on Pet Project Days
-
 ![](https://cdn-images-1.medium.com/max/1600/1*WgxAr6HIw31bztkKf_6ntw.jpeg)
 
 Once per month we have an event called "Pet Project day" at [THE ICONIC](http://theiconic.com.au).

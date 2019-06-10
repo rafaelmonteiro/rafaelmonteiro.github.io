@@ -14,8 +14,6 @@ tags: [Lifestyle, Self Improvement, Life Lessons, Comfort Zone, Language Learnin
 ![By Adrian Gigante from Sydney — IMG\_4809-Pano-Edit-Edit, CC BY 2.0, [https://commons.wikimedia.org/w/index.php?curid=53554477](https://commons.wikimedia.org/w/index.php?curid=53554477)](https://cdn-images-1.medium.com/max/2400/1*BjSUPVYbeSlsl_omffdD-A.jpeg)
 By Adrian Gigante from Sydney — IMG\_4809-Pano-Edit-Edit, CC BY 2.0, [https://commons.wikimedia.org/w/index.php?curid=53554477](https://commons.wikimedia.org/w/index.php?curid=53554477)
 
-# Reasons for IT professionals to move abroad
-
 The quest for constant evolution is needed in most careers. However, this requirement becomes even more desirable when we think about technology, because knowledge is more ephemeral there. New technologies are developed and released daily and professionals who do not keep up with this pace can quickly become outdated. As a result, the amount of professionals who choose to develop an international career is increasing.
 
 This article explores some of the reasons that motivate individuals to make the leap.
