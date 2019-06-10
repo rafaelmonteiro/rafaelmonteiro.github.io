@@ -25,6 +25,7 @@ Basically, the application goal was to consume an external API, do some processi
 We considered that scenario as a great use case for Lambda, especially because the application would execute just twice per month; furthermore, we did not have to think about spinning up/configuring EC2 instances.
 
 ![A basic workflow](https://cdn-images-1.medium.com/max/1600/1*McZUczQVtLLR2Hl2Mg2Akw.png)
+
 A basic workflow
 
 ### Lambda
