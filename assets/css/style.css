@@ -2599,7 +2599,6 @@ figure img {
 }
 
 figure a img {
-    filter: gray; /* IE6-9 */
     -webkit-filter: brightness(100%); /* Google Chrome & Safari 6+ */
     -webkit-transform: translate(0,0);
     -moz-transform: translate(0,0);
@@ -3820,8 +3819,8 @@ button.menu-button {
   color: #fff
 }
 button.menu-button:hover {
-  background-color: #39c492 ;
-  color: #fff
+  background-color: #39c492;
+  color: #fff;
   box-shadow: rgba(0,0,0,0.2) 0 0 0 3px;
 }
 
@@ -4083,7 +4082,7 @@ body.slide{
 
     a#slide{
         position:absolute
-        }    
+        }
 }
 
 /*      End-Responsive      */
