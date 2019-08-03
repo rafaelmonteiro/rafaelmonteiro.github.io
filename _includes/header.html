@@ -10,11 +10,11 @@
                 {% else %}
                     <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
-{% endfor %}            
+{% endfor %}
            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
     </nav>
-    
-    
+
+
 </aside>
 {% if page.imagefeature %}<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ page.imagefeature }})" itemscope itemtype="http://schema.org/Organization">{% if page.imagecredit %}<span class="image-credit">Photo Credit: <a href="{{ page.imagecreditlink }}" target="_blank">{{ page.imagecredit }}</a></span>{% endif %}
 {% else %}
@@ -35,7 +35,7 @@
             <h1 class="blog-title light" itemprop="name">
                 {{ site.title }}
             </h1>
-                
+
             </a>
             <h2 class="blog-description light bordered bordered-top" itemprop="description">
                 {{ page.headline }}
@@ -52,7 +52,7 @@
             <h1 class="blog-title light" itemprop="name">
                 {{ site.title }}
             </h1>
-                
+
             </a>
         </div>
     </div>
@@ -88,9 +88,9 @@
     {% endif %}
     {% endif %}
 </header>
-<a href="https://www.scrumalliance.org/community/profile/rmonteiro14" target="_blank">
+<a href="https://www.scrumalliance.org/community/profile/rmonteiro14" target="_blank" rel="noreferrer">
     <img id="csm-seal" width="90" src="{{ site.url }}/images/csm-seal.png" title="Certified ScrumMaster®" alt="ScrumMaster Certification">
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-28&ci=AWS00358839" target="_blank">
+<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-28&ci=AWS00358839" target="_blank" rel="noreferrer">
     <img id="aws-badge" width="100" src="{{ site.url }}/images/aws-developer.png" title="AWS Certified Developer - Associate" alt="AWS Certification">
 </a>
