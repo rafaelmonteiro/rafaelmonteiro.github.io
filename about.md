@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Rafael Monteiro
+title: About
 tags: [Monteiro, Rafael]
 image:
   feature: author.jpg
