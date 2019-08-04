@@ -11,12 +11,15 @@ image:
 </figure>  
 
 Hey, I'm Rafael Monteiro.  
+
 A developer who always seek for compliance with development best practices and UX.  
 Information Security specialist, Certified ScrumMaster (CSM) and AWS Certified Developer currently in Sydney, Australia.  
 
-Also, I like to play drums.
+Some of my hobbies are: listening to music and playing drums.
 
-I use this space to share my thoughts and experiences.  
+This space is for sharing my thoughts and experiences.
+
+I also contribute to <a href="https://theiconic.tech" target="_blank">THE ICONIC Tech Blog</a>.
 
 <figure>
 <a href="https://www.scrumalliance.org/community/profile/rmonteiro14" target="_blank" rel="noreferrer">
@@ -32,4 +35,4 @@ I use this space to share my thoughts and experiences.
 </a>
 </figure>  
 
-You can also find me in the social networks listed below.
+You can find me in the social networks listed below.
