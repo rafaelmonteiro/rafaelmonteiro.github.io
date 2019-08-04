@@ -2495,6 +2495,10 @@ body.search-overlay:after {
     clear: both;
 }
 
+#searchFieldLabel {
+  display: block;
+}
+
 @media only screen and (min-width:48em) {
     .search-wrapper {
         top: 100px;
