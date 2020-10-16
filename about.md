@@ -27,7 +27,7 @@ I also contribute to <a href="https://theiconic.tech" target="_blank">THE ICONIC
 </a>
 </figure>  
 <figure>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-11-28&ci=AWS00358839" target="_blank" rel="noreferrer">
+<a href="https://www.youracclaim.com/badges/ee6b6e18-6877-4d65-ac83-596ac61bd14e/public_url" target="_blank" rel="noreferrer">
   <img width="100" 
     src="{{ site.url }}/images/aws-developer.png" 
     title="AWS Certified Developer - Associate" 
