@@ -15,7 +15,7 @@ Contributors: [Danilo Bezerra](https://www.linkedin.com/in/danilo-bezerra/), [Di
 This article is the first of a series about the main frontend frameworks and backend technologies, which is based on a thematic project to show how these interfaces respond using different implementations.
 
 ## Get your pokémon
-First of all [check out](https://pokemon-battle-vue.herokuapp.com/) our live demo Pokémon Battle and take a look at the [source code](https://github.com/vanderleisilva/pokemon-battle).
+First of all [check out](https://pokemon-battle-vue.netlify.app/) our live demo Pokémon Battle and take a look at the [source code](https://github.com/vanderleisilva/pokemon-battle).
 For this article we’re going to explore its construction focused on [VueJS](https://vuejs.org) and PHP [Lumen](https://lumen.laravel.com).
 
 ## Frontend
